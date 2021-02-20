@@ -16,15 +16,15 @@ def divide_premium(a, b):
     return a/b
 
 
-def getRemainder(a, b):
+def get_Remainder(a, b):
     return a//b
 
 
-def getMedian(a, b):
+def get_Median(a, b):
     return (a+b)/2
 
 
-def get getAbs(num):
+def get get_Abs(num):
     if num>=0:
         return num
     else:
